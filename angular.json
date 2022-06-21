@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "playground"
+  "cli": {
+    "analytics": "6f538b28-42da-417b-9944-8af3b0631076"
+  }
 }
